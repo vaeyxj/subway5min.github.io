@@ -95,5 +95,5 @@ hugo
 cd public
 git add .
 git commit -m "Add new post: $1"
-git push origin masterh
+git push origin master
 ```
