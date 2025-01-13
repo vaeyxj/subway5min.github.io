@@ -6,8 +6,15 @@
     <description>Recent content on 5 minutes by subway</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Jan 2025 15:33:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jan 2025 11:18:43 +0800</lastBuildDate>
     <atom:link href="https://vaeyxj.github.io/subway5min.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>20250113</title>
+      <link>https://vaeyxj.github.io/subway5min.github.io/posts/20250113/</link>
+      <pubDate>Mon, 13 Jan 2025 11:18:43 +0800</pubDate>
+      <guid>https://vaeyxj.github.io/subway5min.github.io/posts/20250113/</guid>
+      <description>&lt;h1 id=&#34;技术分享&#34;&gt;技术分享&lt;/h1&gt;&#xA;&lt;h2 id=&#34;目录&#34;&gt;目录&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#%E7%BB%93%E6%9E%84%E6%A1%86%E6%9E%B6&#34;&gt;结构框架:&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;结构框架&#34;&gt;结构框架:&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;交代背景 | 分析现状 — 产生问题!&#xA;&lt;ul&gt;&#xA;&lt;li&gt;可列举具体例子&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;聚焦问题&#xA;&lt;ul&gt;&#xA;&lt;li&gt;问题可能有很多方面,转移到本次分享重点,比如说,问题的关键是XX?结合调研和数据分析发现问题是XX?&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;基于问题提出解决方案&#xA;&lt;ul&gt;&#xA;&lt;li&gt;介绍可行性、抽象过程&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;概括总结方案&lt;/li&gt;&#xA;&lt;li&gt;铺垫挑战 &amp;amp; 对应详细阐述方案&lt;/li&gt;&#xA;&lt;li&gt;未来规划&lt;/li&gt;&#xA;&lt;li&gt;Q&amp;amp;A &lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>20250110</title>
       <link>https://vaeyxj.github.io/subway5min.github.io/posts/my-first-post/</link>
